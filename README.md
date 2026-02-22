@@ -1,6 +1,6 @@
 ![Muhammad Sohail Raza](https://github.com/muhammadsohailraza/muhammadsohailraza/blob/main/assets/cover.png)
 
-<h1 align="left">Hi 👋, I'm Muhammad Sohail Raza</h1>
+<h1 align="left">Hi 👋, I'm Sohail</h1>
 ## Hi there 👋
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <!--
