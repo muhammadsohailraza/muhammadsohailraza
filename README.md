@@ -1,8 +1,10 @@
 ![Muhammad Sohail Raza](https://github.com/muhammadsohailraza/muhammadsohailraza/blob/main/assets/cover.png)
 
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Sohail</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammadsohailraza&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammadsohailraza&label=Profile%20views&color=0e75b6&style=flat"
     alt="muhammadsohailraza" /> 
   </p>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Sohail</h1> 
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <!--
