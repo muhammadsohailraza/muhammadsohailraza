@@ -1,7 +1,7 @@
 ![Muhammad Sohail Raza](https://github.com/muhammadsohailraza/muhammadsohailraza/blob/main/assets/cover.png)
 
 <h1 align="left">Hi 👋, I'm Sohail</h1>
-## Hi 👋 I'm Sohail
+## Hi 👋, I'm Sohail
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <!--
 **muhammadsohailraza/muhammadsohailraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
