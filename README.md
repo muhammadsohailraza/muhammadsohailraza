@@ -15,3 +15,6 @@
 💬 &nbsp;Feel free to reach out to me for consulting, collaborating, or just for some interesting discussions on bioinformatics/AI.\
 ✉️ &nbsp;Contact me via email at sohail@eye.ac.cn, muhammadsohailraza@live.com
 
+<img alt="Night Coding" src="https://github.com/muhammadsohailraza/muhammadsohailraza/blob/main/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
