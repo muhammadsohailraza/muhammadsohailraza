@@ -31,6 +31,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)\
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![MAC](https://img.shields.io/badge/MAC-05122A?style=flat&logo=macos)&nbsp;
 
 
