@@ -18,6 +18,8 @@
 <img alt="Night Coding" src="https://github.com/muhammadsohailraza/muhammadsohailraza/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
