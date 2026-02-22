@@ -11,7 +11,7 @@
 🎓 &nbsp; PhD Bioinformatics from Beijing Institute of Genomics, Chinese Academy of Sciences.\
 🌟 &nbsp; Research Interests: Development of Bioinformatics tools and pipelines for processing and analysis of NGS data.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Bioinformatics Software Development, and Pharmacogenomics.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Writing as hobbies.\
+✍️ &nbsp;In my free time, I pursue writing and graphics design as hobbies.\
 💬 &nbsp;Feel free to reach out to me for consulting, collaborating, or just for some interesting discussions on bioinformatics/AI.\
 ✉️ &nbsp;Contact me via email at sohail@eye.ac.cn, muhammadsohailraza@live.com
 
