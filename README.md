@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp; Currently working as a PostDoc at Eye Hospital, Wenzhou Medical University.\
+🔭 &nbsp; Currently working as a Joint PostDoc at Oujiang Lab, Eye Hospital, Wenzhou Medical University.\
 🎓 &nbsp; PhD Bioinformatics from Beijing Institute of Genomics, Chinese Academy of Sciences.\
 🌟 &nbsp; Research Interests: Development of Bioinformatics tools and pipelines for processing and analysis of NGS data.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Bioinformatics Software Development, and Pharmacogenomics.\
